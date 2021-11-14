@@ -125,11 +125,11 @@ function showResult(){
         let scoreTag = '<span>PERFECTION! You Scored <p>'+ userScore +'</p> out of <p>'+ questions.length +'!</p></span>';
         scoreText.innerHTML = scoreTag;
     }
-    else if (userScore > 3){
+    else if (userScore > 3 || userScore < 5){
         let scoreTag = '<span>WOW! You Scored <p>'+ userScore +'</p> out of <p>'+ questions.length +'!</p></span>';
         scoreText.innerHTML = scoreTag;
     }
-    else if(userScore > 1){
+    else if(userScore > 1 || userScore < 4){
         let scoreTag = '<span>Nice! You Scored <p>'+ userScore +'</p> out of <p>'+ questions.length +'!</p></span>';
         scoreText.innerHTML = scoreTag;
     }
