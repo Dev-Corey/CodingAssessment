@@ -33,10 +33,10 @@ THEN I can save my initials and score
 
 ![Coding Assessment Screen Capture](assets/images/codeAssessmentCapture.PNG)
 
-### Deployed URL 
+### Deployed URL https://cboensch6505.github.io/CodingAssessment/
 
 I have put together a small quiz that asks a total of 5 questions regarding coding. When you click the Start button it shows an onfo page telling you about the 60 second timeframe once you accept then the quiz begins. The timer start as the first question is displayed and counts down until you have finished your quiz. When you click on the answer it will display whether you have made the corrct choice or not than the you click "Next >" the procced to the next question. The timer does not stop when you answer all the questions. When all five questions have been answered then you recieve a results window displaying your score and a message that correlates to the score you recieved.
 
 
-### Challenge 4 - Code Assessment Quiz
+### Challenge 4 - Coding Assessment Quiz
 Completed By: Corey Boensch
